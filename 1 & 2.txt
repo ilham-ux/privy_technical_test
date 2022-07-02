@@ -1,0 +1,2 @@
+1. software testing is a process from quality assurance to checking a software product, already achieve quality which is expected
+2. maybe challenge qa for me, like a create testing very detail, create clean automation testing, and must know flow a product website
